@@ -1,7 +1,7 @@
 <h1>👋 Hi! I am  Abdumannon G'aniyev  </h1>
 
 <p>👨‍💻 I'm Web Frontend developer</p>
-<p></p>
+<p>🖥 Junior Full Stack developer</p>
 
 <h1><b>💻 Languages and tools I work with</b></h1>
 
