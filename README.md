@@ -15,6 +15,7 @@
 <p>NODEJS</p>
 <p>EXPRESS</p>
 <p>CHAKRA UL</p>
+<p>TAILWINDCSS</p>
 
 📍<i> Current location 👉🏻 Uzbekistan Surxondaryo </i><br>
 💬 <i>Contact me 👉🏻 <a href="https://t.me/abduman_non">@abduman_non</a></i>
